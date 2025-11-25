@@ -1,0 +1,11 @@
+../User/ra18/can_msg.h:16:19:can_sendmsg	1
+../User/ra18/can_msg.h:23:19:can_replymsg	1
+../User/ra18/can_msg.c:14:12:pcr_startheat	3
+../User/ra18/can_msg.c:38:12:pcr_stopheat	3
+../User/ra18/can_msg.c:62:12:pcr_curtemp	5
+../User/ra18/can_msg.c:100:12:pcr_gettemp	5
+../User/ra18/can_msg.c:138:12:pcr_gettime	5
+../User/ra18/can_msg.c:178:12:pcr_settemp	5
+../User/ra18/can_msg.c:217:12:pcr_settime	5
+../User/ra18/can_msg.c:258:12:pcr_inplace	3
+../User/ra18/can_msg.c:283:6:can_user_RxCallback	12

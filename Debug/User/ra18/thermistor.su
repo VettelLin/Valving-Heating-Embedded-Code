@@ -1,0 +1,8 @@
+../User/ra18/thermistor.c:11:7:convert_adc_to_temp	72	static
+../User/ra18/thermistor.c:33:7:convert_volt_to_temp	64	static
+../User/ra18/thermistor.c:53:7:MYLOG	48	static
+../User/ra18/thermistor.c:80:7:adc_volt2temp	48	static
+../User/ra18/thermistor.c:132:6:get_temperatures	8	static
+../User/ra18/thermistor.c:146:7:get_temperature	24	static
+../User/ra18/thermistor.c:157:6:dock_get_temperature	24	static
+../User/ra18/thermistor.c:177:5:thermistor_adc_handler	32	static

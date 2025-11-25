@@ -1,0 +1,4 @@
+../User/dev/WS2812B.c:20:13:colorToPWMDuty	2
+../User/dev/WS2812B.c:35:20:CCR_Buffer_SET	1
+../User/dev/WS2812B.c:42:6:WS2812B_SET_STRIP	2
+../User/dev/WS2812B.c:56:6:WS2812B_Init	1

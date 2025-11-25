@@ -1,0 +1,6 @@
+../User/app/led_strip.c:20:6:led_strip_light_lamps	2
+../User/app/led_strip.c:31:6:led_strip_light	1
+../User/app/led_strip.c:36:6:led_strip_set	1
+../User/app/led_strip.c:41:6:led_strip_refresh	1
+../User/app/led_strip.c:56:6:led_strip_poll	2
+../User/app/led_strip.c:74:6:led_strip_init	1

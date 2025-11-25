@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm3.h:1528:26:__NVIC_GetEnableIRQ	2
+../User/lib/l_uart.c:50:5:uart_putchar	1
+../User/lib/l_uart.c:56:5:uart_write	5
+../User/lib/l_uart.c:70:5:__uart_printf	1
+../User/lib/l_uart.c:83:5:__uart_printv	4
+../User/lib/l_uart.c:108:6:Init_UART_Receive_IT	2
+../User/lib/l_uart.c:127:13:uart5_user_RxCallback	1
+../User/lib/l_uart.c:134:13:uart4_user_RxCallback	1
+../User/lib/l_uart.c:141:6:HAL_UARTEx_RxEventCallback	5
+../User/lib/l_uart.c:158:6:HAL_UART_ErrorCallback	5
+../User/lib/l_uart.c:174:5:wait_input	6

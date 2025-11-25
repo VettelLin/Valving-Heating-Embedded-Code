@@ -1,0 +1,8 @@
+../User/ra18/heat.c:23:7:calculate_dynamic_output_min	24	static
+../User/ra18/heat.c:38:7:pid_control	56	static
+../User/ra18/heat.c:134:20:tc_set_pwm	16	static
+../User/ra18/heat.c:141:6:init_heat_docks	24	static
+../User/ra18/heat.c:177:6:stop_heat_dock	32	static
+../User/ra18/heat.c:202:6:start_heat_dock	32	static
+../User/ra18/heat.c:235:5:detect_heat_docks	24	static
+../User/ra18/heat.c:263:6:do_heat_dock	96	static
