@@ -1,0 +1,10 @@
+../User/lib/l_can.c:14:13:can_rxMsg_handler	1
+../User/lib/l_can.c:21:13:can_error_handler	1
+../User/lib/l_can.c:26:6:HAL_CAN_RxFifo0MsgPendingCallback	3
+../User/lib/l_can.c:40:6:HAL_CAN_RxFifo1MsgPendingCallback	3
+../User/lib/l_can.c:55:6:HAL_CAN_ErrorCallback	1
+../User/lib/l_can.c:60:6:can_activate_error_it	1
+../User/lib/l_can.c:74:5:can_sendStdMessage	2
+../User/lib/l_can.c:92:5:can_sendExtMessage	2
+../User/lib/l_can.c:113:5:can_config_filter	3
+../User/lib/l_can.c:145:6:can_default_setup	1

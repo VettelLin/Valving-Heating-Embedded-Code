@@ -1,0 +1,10 @@
+../User/lib/l_cmd.c:25:5:com_gpio	40	static
+../User/lib/l_cmd.c:106:5:com_pwm	32	static
+../User/lib/l_cmd.c:157:5:com_timer	48	static
+../User/lib/l_cmd.c:241:5:com_sys	24	static
+../User/lib/l_cmd.c:255:5:com_version	24	static
+../User/lib/l_cmd.c:265:5:command_handler	24	static
+../User/lib/l_cmd.c:294:5:call_command	24	static
+../User/lib/l_cmd.c:320:6:command_line_process	8	static
+../User/lib/l_cmd.c:328:6:command_uart_RxCallback	32	static
+../User/lib/l_cmd.c:364:6:uart5_user_RxCallback	24	static

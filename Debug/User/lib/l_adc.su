@@ -1,0 +1,2 @@
+../User/lib/l_adc.c:12:7:adc_val2volt	24	static
+../User/lib/l_adc.c:18:10:adc_get_injectedVal	16	static

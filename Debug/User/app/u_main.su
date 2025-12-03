@@ -1,0 +1,4 @@
+../User/app/u_main.c:28:6:user_setup	32	static
+../User/app/u_main.c:71:6:user_loop	16	static
+../User/app/u_main.c:118:6:HAL_GPIO_EXTI_Callback	16	static
+../User/app/u_main.c:124:6:timer_base_user_handler	16	static
